@@ -1,4 +1,4 @@
-🎓 EBAC — Módulo 15: Tailwind CSS
+# 🎓 EBAC — Módulo 15: Tailwind CSS
 
 ## 📖 Sobre
 
